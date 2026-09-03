@@ -1,0 +1,48 @@
+# === Unity generated / machine-local (never commit) ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Asset meta files for folders Unity ignores are still needed; the folders above are not.
+
+# === IDE / OS ===
+.vs/
+.vsconfig
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.DS_Store
+Thumbs.db
+
+# === Build outputs ===
+*.apk
+*.aab
+*.unitypackage
+*.app
+crashlytics-build.properties
+
+# === Asset Store / package tarballs ===
+/[Aa]ssets/AssetStoreTools*
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# === Local extras (not source) ===
+/Assets.zip
+*.zip
+/OOPTest/
+/TOWER_DEFENSE_README.md.bak

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d97e1ce711d7a1240ae3bb42406978d5, type: 3}
+  m_Name: SlowTowerData
+  m_EditorClassIdentifier: TowerDefense.Runtime::TowerDefense.Data.SlowTowerData
+  prefab: {fileID: 1777821212675182056, guid: 9b570ee6b06d9f3418644ba70e4df806, type: 3}
+  projectilePrefab: {fileID: 6402753872100777360, guid: 11a64dde94f3d8e4fb21fa628ba6d9dc, type: 3}
+  range: 4
+  damage: 4
+  cooldown: 1.1
+  cost: 80
+  targetLayer: 3
+  slowPercent: 0.45
+  slowDuration: 2.5

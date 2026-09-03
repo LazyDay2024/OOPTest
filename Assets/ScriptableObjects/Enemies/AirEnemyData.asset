@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c9059999eb33964591b0ec05f9a4419, type: 3}
+  m_Name: AirEnemyData
+  m_EditorClassIdentifier: TowerDefense.Runtime::TowerDefense.Data.EnemyData
+  prefab: {fileID: 2500376434966503037, guid: 0228ca17309fe2f4c95912e23b0d5dbc, type: 3}
+  hp: 22
+  speed: 3
+  reward: 10
+  leakDamage: 1
+  layer: 1
